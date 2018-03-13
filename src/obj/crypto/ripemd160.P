@@ -1,0 +1,6 @@
+obj/crypto/ripemd160.o: crypto/ripemd160.cpp \
+ /root/Libercoin-master/src/crypto/ripemd160.h \
+ /root/Libercoin-master/src/crypto/common.h
+crypto/ripemd160.cpp :
+ /root/Libercoin-master/src/crypto/ripemd160.h :
+ /root/Libercoin-master/src/crypto/common.h :

@@ -1,0 +1,6 @@
+obj/crypto/sha512.o: crypto/sha512.cpp \
+ /root/Libercoin-master/src/crypto/sha512.h \
+ /root/Libercoin-master/src/crypto/common.h
+crypto/sha512.cpp :
+ /root/Libercoin-master/src/crypto/sha512.h :
+ /root/Libercoin-master/src/crypto/common.h :

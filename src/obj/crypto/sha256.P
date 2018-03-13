@@ -1,0 +1,6 @@
+obj/crypto/sha256.o: crypto/sha256.cpp \
+ /root/Libercoin-master/src/crypto/sha256.h \
+ /root/Libercoin-master/src/crypto/common.h
+crypto/sha256.cpp :
+ /root/Libercoin-master/src/crypto/sha256.h :
+ /root/Libercoin-master/src/crypto/common.h :
