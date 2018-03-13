@@ -16,13 +16,13 @@ Official Links
 
 Official Website: https://libercoin.net
 
-Official Twitter: https://twitter.com/libercoinproject
+Official Twitter: https://twitter.com/libercoin
 
 --
 
 Exchanges
 
-https://libertrade.net
+https://libertrade.net - is coming
 TBA
 
 --
